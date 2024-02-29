@@ -7,3 +7,5 @@ Spring Bootを利用した「Hellow World」をレスポンスするREST APIの�
 - 新しいブランチ、developブランチにコミットしてGithubにpushする
 - Pull Requestを作ってレビュー依頼を行う
 # 動作確認
+Hello Worldの表示
+![Hello World](img/Hello%20World.png)
